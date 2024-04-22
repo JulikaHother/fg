@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Abordage";
-  src: url("fonts/Abordage-Regular.woff") format('woff'), url("fonts/Abordage-Regular.woff2") format('woff2');
+  src: url("/fonts/Abordage-Regular.woff") format('woff'), url("/fonts/Abordage-Regular.woff2") format('woff2');
 }
 
 
